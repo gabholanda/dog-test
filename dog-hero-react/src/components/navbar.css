@@ -1,0 +1,16 @@
+.navbar {
+  display: flex;
+  justify-content: space-evenly;
+  background-color: rgb(207, 48, 48);
+  height: 10vh;
+  align-items: center;
+  flex-wrap: wrap;
+}
+.navbar a {
+  text-decoration: none;
+  color: white;
+  background-color: rgb(227, 84, 84);
+  padding: 1%;
+  border-radius: 20px;
+  align-self: center;
+}
